@@ -1,2 +1,2 @@
 # personal
-personal repositor
+personal repository
